@@ -120,7 +120,7 @@ npm start
 ```
 
 ## IMAGE of Frontend
-![Image Description](relative/path/to/image.png)
+![Image Description](images/frontend_image.jpeg)
 
 ## Backend
 
